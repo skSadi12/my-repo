@@ -1,0 +1,8 @@
+div{
+    background-color: bisque;
+    border: 10px solid red;
+    margin: 50px;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box-shadow: 10px 10px 10px  ;
+}
